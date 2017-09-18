@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="ListView形式的RecyclerView"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="GridView形式的RecyclerView(垂直)"
+        android:textSize="16dp"/>
+ <TextView
+        android:id="@+id/tv21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="GridView形式的RecyclerView(水平)"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="瀑布流形式的RecyclerView2"
+        android:textSize="16dp"/>
+ <TextView
+        android:id="@+id/tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="瀑布流形式的RecyclerView3"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="瀑布流形式的RecyclerView4"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#BFBFBF"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="画廊(Gallery)形式的RecyclerView4"
+        android:textSize="16dp"/>
+
+</LinearLayout>
