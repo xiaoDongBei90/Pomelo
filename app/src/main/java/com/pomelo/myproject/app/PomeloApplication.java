@@ -9,7 +9,7 @@ import android.app.Application;
 public class PomeloApplication extends Application {
     private static PomeloApplication pomeloApplication;
 
-    private static PomeloApplication getMyApplication() {
+    public static PomeloApplication getMyApplication() {
         return pomeloApplication;
     }
 
