@@ -7,8 +7,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="657be9d78037cd8a18324316fd16d9fcd4065f96">
+        sha1="1b36026c52fc0fc2805defd52c923e32f590a114">
         <dex dex="C:\myproject\Pomelo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c7520c69276f130704ad8d64ec8d42a28cf2206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myproject\Pomelo\app\libs\tbs_sdk_thirdapp_v3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e2949ae1c4b60db5855c853b03b8f1f41f0f1ab">
+        <dex dex="C:\myproject\Pomelo\app\build\intermediates\transforms\dex\debug\folders\1000\2\tbs_sdk_thirdapp_v3.0_5fc946d51714c83d189c469bfe392c9bc258da37\classes.dex" />
     </item>
     <item
         is-multidex="true"
