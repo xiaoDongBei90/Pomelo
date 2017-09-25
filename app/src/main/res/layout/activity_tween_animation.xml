@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pomelo.myproject.activity.TweenAnimationActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_display_alpha"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_alpha"
+            android:layout_width="165dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/iv_display_alpha"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:text="透明" />
+
+        <ImageView
+            android:id="@+id/iv_display_rotate"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_rotate"
+            android:layout_width="165dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/iv_display_rotate"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:text="旋转" />
+
+        <ImageView
+            android:id="@+id/iv_display_scale"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_alpha"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_scale"
+            android:layout_width="165dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/iv_display_scale"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:text="缩放" />
+
+        <ImageView
+            android:id="@+id/iv_display_translate"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tv_rotate"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_translate"
+            android:layout_width="165dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/iv_display_translate"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:text="平移" />
+
+        <ImageView
+            android:id="@+id/iv_display_set"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_translate"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_animation_set"
+            android:layout_width="165dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/iv_display_set"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:text="动画集" />
+
+    </RelativeLayout>
+
+</FrameLayout>
