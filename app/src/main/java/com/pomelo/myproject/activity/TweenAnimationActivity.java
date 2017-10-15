@@ -14,38 +14,39 @@ import android.widget.TextView;
 
 import com.pomelo.myproject.R;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
 
 public class TweenAnimationActivity extends AppCompatActivity implements View.OnClickListener {
 
-    @BindView(R.id.iv_display_alpha)
     ImageView ivDisplayAlpha;
-    @BindView(R.id.tv_alpha)
     TextView tvAlpha;
-    @BindView(R.id.iv_display_rotate)
     ImageView ivDisplayRotate;
-    @BindView(R.id.tv_rotate)
     TextView tvRotate;
-    @BindView(R.id.iv_display_scale)
     ImageView ivDisplayScale;
-    @BindView(R.id.tv_scale)
     TextView tvScale;
-    @BindView(R.id.iv_display_translate)
     ImageView ivDisplayTranslate;
-    @BindView(R.id.tv_translate)
     TextView tvTranslate;
-    @BindView(R.id.tv_animation_set)
     TextView tvAnimationSet;
-    @BindView(R.id.iv_display_set)
     ImageView ivDisplaySet;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tween_animation);
-        ButterKnife.bind(this);
+        findView();
         setListener();
+    }
+
+    private void findView() {
+        ivDisplayAlpha = (ImageView) findViewById(R.id.iv_display_alpha);
+        tvAlpha = (TextView) findViewById(R.id.tv_alpha);
+        ivDisplayRotate = (ImageView) findViewById(R.id.iv_display_rotate);
+        tvRotate = (TextView) findViewById(R.id.tv_rotate);
+        ivDisplayScale = (ImageView) findViewById(R.id.iv_display_scale);
+        tvScale = (TextView) findViewById(R.id.tv_scale);
+        ivDisplayTranslate = (ImageView) findViewById(R.id.iv_display_translate);
+        tvTranslate = (TextView) findViewById(R.id.tv_translate);
+        tvAnimationSet = (TextView) findViewById(R.id.tv_animation_set);
+        ivDisplaySet = (ImageView) findViewById(R.id.iv_display_set);
     }
 
     private void setListener() {

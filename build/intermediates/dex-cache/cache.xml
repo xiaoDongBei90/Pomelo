@@ -3,192 +3,120 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\b3bd6edd68b44e023cfc8b6de8310047c823db5f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_5ccc6166806d16c9cab071f4a67a2874aea5cc95.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_9721fc19094c1c0e7a346872e9bbe75f792e0f77.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\a39b202fa81a56e4221848ec04286a3d1d07bf20\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_f59f74bcc080bcd0770c27e3bdfb919abc0f9d42.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\75fbcf61da2cc6b229567938ff684e63dad3ec48\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_f665d472412cbdb1afc3c6bfb4b54dc5429885e2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\8e11980aa2abdd0442539cc981364c0f072a7ad6\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\27f824267391a39eb18c5ac589deac671877d3eb\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_f32ed4bea2f792c81cee94d9194dd4e93cf4b292.jar" />
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_e974f06e8381e7b6de6a2f6312b7b933da5107c9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\8b4f1406a5d905ae78d5e6bdaa99b3ab854dba86\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\fc5dd8f20a5251363852c2b5c65eddb779131550\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_e5bfdf7052c3dfb83eeb1b990da47f4e7e48bad4.jar" />
+        sha1="fa61569ed84bc6979e529ec7d92bb4756b1c3572">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_0da3789b63988613f8b9d926c2c92ac2c096cff4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\993caa223bc43097aca2225415bc51c66ff2df16\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\482385d210345d83bf4ac551e70b02d4c24178c4\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_da6edc68edd8fb9a355b545537365bcc4ffcc303.jar" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_95fb860d26acc5fa264f2b1d4c2196f1d67768ca.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\0fc8ad3676667ee53891430d34cb77e026b1ec2d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_fb26b2e9e6d0cd269f05a4ca4ab373e4010f074f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_946156b6eec980aeb046d2937f07aa08946969a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\bf5ba9a3c4ca2a1e7ca792a3bd1740a2ad7a8b06\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_145536b90c2fa35e5101a7296847a90902ae8d2f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\4257591057083baa67be65edd00ad1e6d65793f1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_91758a698c75d0d602a3640d91484ed2fd15b4ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\myproject\Pomelo\app\libs\tbs_sdk_thirdapp_v3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="1e2949ae1c4b60db5855c853b03b8f1f41f0f1ab">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\tbs_sdk_thirdapp_v3.0_5fc946d51714c83d189c469bfe392c9bc258da37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\2aed9a221ba720f318958dd49f3a302a04cbabc8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_5420eb328c7d6c38bb25c1fee901ca7f31dbed3b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Software\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2ceaabf4320630eaa3be4e08c6901112b1f1c81c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\9f39372c466ce72da181ceb93f028c04cf624188\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_d101a7ffefffed4284f2c9cf7bc759cf80306971.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\264465d369e3c10bd35ec4ef27643c624dfc5d47\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\8861c866b06f867b48f277dd0b7e80ccd383a562\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_765761981c943cc1770e48343a510a98de408af1.jar" />
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_51cc25197d01d7c1c2ba21cb12e95b26a44856d2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\bcdceb3573cd3d639cd47a93761ffb3ff9a2ae64\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_af26b599e665ab9222976847febb189017169024.jar" />
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\21e105441481bc42c81ab409402900922c1112f5\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_bb5b56f32c509eb0226a963c2ab71cc40cccb388.jar" />
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\okio-1.11.0_893d7cba6fd833c845f42c6194f7ff7a73716aa7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\6b90ca0630da7d9697d9629f2f6a2878e0aba89b\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\179aab4c374d9e78e38aa05871c2d013d5aa1f74\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_4b391c9f3870ba4b2fe7a2bf79cd90c340f054ad.jar" />
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_d1db0cb73e4d1924c63f40389e1f7ff0a3dae38a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Software\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8e13b6400b71e69c6167540ae4621de444d9d981.jar" />
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_16ea2c5adabd180da0b0709521ed490e4e49b95b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\paul\.android\build-cache\b2ffe0b08aab7b886d8d0ceeec1bc1ac0d578af7\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\myproject\Pomelo\app\build\intermediates\pre-dexed\debug\classes_631cc9e4e7c5563dbae3042f43e42c63cb953b11.jar" />
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_ae3cdcc1e7c2a4a303ea293d52806fed01d405bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9dd14120cdf59159fd00d273a4648b8e05c0bcf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\MyWorkSpace\Pomelo\app\build\intermediates\pre-dexed\debug\classes_0065332f493994c56ec175eedf6f8109e5414493.jar" />
     </item>
 
 </items>
