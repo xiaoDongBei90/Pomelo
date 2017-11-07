@@ -9,7 +9,7 @@ import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.pomelo.myproject.R;
 import com.pomelo.myproject.adapter.GankAdapter;
 import com.pomelo.myproject.bean.GankIoDataBean;
-import com.pomelo.myproject.http.HttpUtils;
+import com.pomelo.myproject.http.HttpManager;
 import com.pomelo.myproject.utils.LogUtils;
 
 import java.util.ArrayList;
@@ -52,7 +52,7 @@ public class RvDemoActivity extends AppCompatActivity {
     }
 
     private void getGankData(int paeg) {
-        Call<GankIoDataBean> gankIoData = HttpUtils.getInstance().getPomeloApi().getGankIoData("福利", pre_page, page);
+        Call<GankIoDataBean> gankIoData = HttpManager.getHttpService().getGankIoData("福利", pre_page, page);
         gankIoData.enqueue(new Callback<GankIoDataBean>() {
             @Override
             public void onResponse(Call<GankIoDataBean> call, Response<GankIoDataBean> response) {
